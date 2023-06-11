@@ -1,5 +1,24 @@
 # chat-app
-EMS that uses a simple express server utilising socket.io websockets
-Visit https://stormy-bastion-50698.herokuapp.com/ for usage.
+Electronic Mailing System (EMS) that uses a simple express server utilising socket.io websockets
 
+# Features
+- Instant messages
+- Room creation and joining
+- Share current location
+- Foul language filtering
+
+# Requirements
+node: >= v16
+
+# Run
+To use chat-app, go to https://chat-app-59c8.onrender.com/
+
+To run the project locally, clone the project, then run
+```
+npm install
+```
+Followed by
+```
+npm run start
+```
 v_1: 07/01/2021
